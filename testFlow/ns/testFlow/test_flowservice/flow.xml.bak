@@ -5,6 +5,10 @@
   <!-- nodes -->
 
 <MAP TIMEOUT="" MODE="STANDALONE">
-  <COMMENT></COMMENT>
+  <COMMENT>test1</COMMENT>
+</MAP>
+
+<MAP TIMEOUT="" MODE="STANDALONE">
+  <COMMENT>test2</COMMENT>
 </MAP>
 </FLOW>
